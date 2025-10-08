@@ -1,0 +1,10 @@
+What is 2 + 2?,1,2,3,4,3
+Which is the capital of France?,London,Paris,Berlin,Madrid,1
+What is H2O?,Water,Oxygen,Hydrogen,Carbon,0
+Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,1
+What is 5 * 3?,12,15,18,20,1
+Who wrote Romeo and Juliet?,Shakespeare,Dickens,Austen,Hemingway,0
+What is the largest mammal?,Elephant,Blue Whale,Giraffe,Lion,1
+Which gas do plants absorb?,Oxygen,Nitrogen,Carbon Dioxide,Helium,2
+What is 100/4?,20,25,30,40,1
+Which is the smallest prime number?,1,2,3,5,1
